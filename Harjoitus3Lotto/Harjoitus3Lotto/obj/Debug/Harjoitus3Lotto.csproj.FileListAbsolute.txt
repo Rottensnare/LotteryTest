@@ -1,0 +1,7 @@
+C:\Users\Rotte\source\repos\Harjoitus3Lotto\Harjoitus3Lotto\bin\Debug\Harjoitus3Lotto.exe.config
+C:\Users\Rotte\source\repos\Harjoitus3Lotto\Harjoitus3Lotto\bin\Debug\Harjoitus3Lotto.exe
+C:\Users\Rotte\source\repos\Harjoitus3Lotto\Harjoitus3Lotto\bin\Debug\Harjoitus3Lotto.pdb
+C:\Users\Rotte\source\repos\Harjoitus3Lotto\Harjoitus3Lotto\obj\Debug\Harjoitus3Lotto.csprojAssemblyReference.cache
+C:\Users\Rotte\source\repos\Harjoitus3Lotto\Harjoitus3Lotto\obj\Debug\Harjoitus3Lotto.csproj.CoreCompileInputs.cache
+C:\Users\Rotte\source\repos\Harjoitus3Lotto\Harjoitus3Lotto\obj\Debug\Harjoitus3Lotto.exe
+C:\Users\Rotte\source\repos\Harjoitus3Lotto\Harjoitus3Lotto\obj\Debug\Harjoitus3Lotto.pdb
