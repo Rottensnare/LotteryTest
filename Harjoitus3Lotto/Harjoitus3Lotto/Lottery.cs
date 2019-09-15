@@ -22,7 +22,7 @@ namespace Harjoitus3Lotto
                     if (numbers[i] == numbers[j])
                     {
                         numbers[i] = rnd.Next(1, 8);
-                        j = 0;
+                        j = -1;
                     }
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine(numbers[i]);
@@ -30,17 +30,17 @@ namespace Harjoitus3Lotto
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine(numbers[i]);
             }
-            for (int k = 1; k < numbers.Length; k++)
-            {
-                if (numbers[0] == numbers[k])
-                {
-                    Arvonta();
-                }
+            //for (int k = 1; k < numbers.Length; k++)
+            //{
+            //    if (numbers[0] == numbers[k])
+            //    {
+            //        Arvonta();
+            //    }
                 
-            }
+            //}
            
           
-            Console.Clear();
+           Console.Clear();
             //int[] copyArray = numbers.ToArray();
             //int[] sortedCopy = numbers.OrderBy(i => i).ToArray();
             Array.Sort(numbers);
@@ -49,8 +49,8 @@ namespace Harjoitus3Lotto
 
                 Console.WriteLine(numbers[x]);
             }
-            
 
+            Console.WriteLine();
 
 
         }

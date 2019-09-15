@@ -10,8 +10,15 @@ namespace Harjoitus3Lotto
     {
         static void Main(string[] args)
         {
-            //Lottery.Arvonta();
-            Lottery2.Arvonta2();
+            Lottery.Arvonta();
+            
+            
+            
+            
+            
+            
+            
+            //Lottery2.Arvonta2();
             Console.ReadLine();
 
         }
